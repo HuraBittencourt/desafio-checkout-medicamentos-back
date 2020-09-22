@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://wydfdauvw5.execute-api.sa-east-1.amazonaws.com';
